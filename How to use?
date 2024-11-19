@@ -1,0 +1,11 @@
+Download the .py file provided or copy the code and paste in vs code.
+install pyinstaller from your terminal, use command 
+pip install pyinstaller
+
+to convert the .py file to exe file run command
+pyinstall (filename).py
+
+or or or or
+
+just directly download the .exe file and use it  
+Download https://usb-autorun-creator.en.softonic.com/ this software to make this file autorun in your usb.
